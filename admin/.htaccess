@@ -1,0 +1,4 @@
+AuthType Basic   
+AuthName "Только для админа!" 
+AuthUserFile E:/OpenServer/domains/catalog/.htpasswd
+require user admin
